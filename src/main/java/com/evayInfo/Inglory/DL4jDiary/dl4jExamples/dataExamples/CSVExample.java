@@ -26,6 +26,9 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @author Adam Gibson
+ *
+ * Lecture 0- Getting started with DeepLearning4j
+ *
  */
 public class CSVExample {
 

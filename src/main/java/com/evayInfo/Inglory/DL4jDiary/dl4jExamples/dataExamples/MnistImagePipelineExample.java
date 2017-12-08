@@ -20,6 +20,9 @@ import org.nd4j.linalg.dataset.DataSet;
 
 /**
  * Created by sunlu on 17/11/24.
+ *
+ * Lecture 1 - Building a Linear Classifier (MLP) With Deeplearning4j
+ *
  */
 public class MnistImagePipelineExample {
 
